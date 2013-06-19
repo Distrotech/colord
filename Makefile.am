@@ -7,7 +7,6 @@ NULL =
 SUBDIRS = 						\
 	etc						\
 	policy						\
-	man						\
 	lib						\
 	rules						\
 	po
